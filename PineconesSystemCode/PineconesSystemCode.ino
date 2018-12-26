@@ -20,7 +20,7 @@
 * Code functionality based on example codes provided for each sensor. 
 * Systems made portable by powering Arduino from Pi and Pi from USB connected battery. 
 * The name PineCones was a tounge in cheek thing that stuck with us through the project. Naming has not been changed to avoid possible errors. 
-*
+* The Arduino connects to the Raspberry Pi via Serial Port TX/RX
 *
 * Materials:
 * 1. Arduino Mega microcontroller
